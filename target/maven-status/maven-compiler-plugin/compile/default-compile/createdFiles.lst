@@ -1,0 +1,6 @@
+com/gt/patron/strategy/Suma.class
+com/gt/patron/strategy/Calculadora.class
+com/gt/patron/strategy/Multiplicar.class
+com/gt/patron/strategy/Restar.class
+com/gt/patron/strategy/Operacion.class
+com/gt/patron/strategy/Ejecutor.class
